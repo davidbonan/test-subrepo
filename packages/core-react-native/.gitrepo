@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/davidbonan/core-react-native.git
+	branch = master
+	commit = 76be4e8ecf06e1f24f2b2f00dde04ae5fa970dc4
+	parent = 9b9648786f1ea2c0c3dfcedf9ed35394195d8f9e
+	method = merge
+	cmdver = 0.4.0
