@@ -1,5 +1,7 @@
 init
 
+Conflit sur la feature 1
+
 
 Developpement de la feature
 
