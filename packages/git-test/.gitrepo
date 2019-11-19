@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/davidbonan/git-test.git
 	branch = feature
-	commit = f8dcf9e1a8e17ce21ad39bc508e81d65c18063ec
-	parent = fbf3d6bf502931bfb75bb4ea9882eb5e7dac64bb
+	commit = d0671f06401c9fb26362eed7071622c0bc7e7b0c
+	parent = 3125db50c36b9150def6780d374b98cbbe8514fb
 	method = merge
 	cmdver = 0.4.0
